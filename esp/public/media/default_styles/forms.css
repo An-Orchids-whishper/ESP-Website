@@ -4,6 +4,12 @@
     
 }
 
+/* Custom User Auth Template Alignments */
+.form-submit-centered {
+    text-align: center;
+}
+
+
 /* Profile editor */
 #id_receive_txt_message {
     list-style:none
